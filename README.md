@@ -1,7 +1,6 @@
-# Pam Tingiris | Front-End Experience Architect & Innovation Strategist
+# Pam Tingiris | Front-End Engineering, User Experiences & Technical Project Management
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamtingiris/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ptingiris@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pamtingiris.com)
 
 ## 👋 About Me
@@ -14,16 +13,30 @@ With 13+ years crafting elegant, user-centric digital experiences, I specialize 
 
 ```javascript
 const skills = {
-  angular: ['Angular 8+', 'TypeScript', 'RxJS', 'NgRx'],
-  frontend: ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'Responsive Design'],
-  architecture: ['Component Design Systems', 'Modular Development', 'State Management'],
-  uxImplementation: ['Accessible Design', 'Performance Optimization', 'Interactive Experiences'],
-  geospatial: ['Mapping APIs', 'Location Services', 'GIS Visualization'],
-  aiIntegration: ['Conversational Interfaces', 'AI-Enhanced Workflows', 'LLM Integration']
+    angularEcosystem: ['Angular 8+', 'TypeScript', 'RxJS', 'Angular Material'],
+    reactEcosystem: ['React', 'Next.js', 'Tailwind CSS', 'Component Design'],
+    frontend: ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'Responsive Design'],
+    architecture: ['Component Design Systems', 'Modular Development', 'State Management'],
+    uxImplementation: ['Accessible Design', 'Performance Optimization', 'Interactive Experiences'],
+    geospatial: ['Mapping APIs', 'Location Services', 'GIS Visualization'],
+    aiIntegration: [
+        'Custom LLM Integration',
+        'AI-Enhanced Testing & Workflows',
+        'Voice-to-Text AI Processing',
+        'HIPAA-Compliant AI Implementation',
+        'Conversational Interfaces'
+    ]
 };
 ```
 
 ## 🔍 Featured Project Portfolio
+
+### [AI-Powered Letters of Medical Necessity (2024-2025)](https://github.com/ptingiris/ptingiris-portfolio/tree/main/2-ai-healthcare)
+![AI Badge](https://img.shields.io/badge/-AI%20Integration-0078D7?style=flat)
+![Healthcare Badge](https://img.shields.io/badge/-Healthcare-16A085?style=flat)
+![HIPAA Badge](https://img.shields.io/badge/-HIPAA%20Compliant-27AE60?style=flat)
+
+Led a cross-functional team implementing an innovative AI solution that transformed healthcare documentation by integrating custom LLM technology with legacy applications.
 
 ### [Enterprise Angular Component Library (2019-2023)](https://github.com/ptingiris/ptingiris-portfolio/tree/main/1-key-differentiator)
 ![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -31,13 +44,6 @@ const skills = {
 ![RxJS Badge](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
 
 Architected a comprehensive Angular component library powering six enterprise applications for utility damage prevention with sophisticated UI components and geospatial integration.
-
-### [AI-Powered Healthcare Documentation (2024)](https://github.com/ptingiris/ptingiris-portfolio/tree/main/2-ai-healthcare)
-![AI Badge](https://img.shields.io/badge/-AI%20Integration-0078D7?style=flat)
-![Healthcare Badge](https://img.shields.io/badge/-Healthcare-16A085?style=flat)
-![HIPAA Badge](https://img.shields.io/badge/-HIPAA%20Compliant-27AE60?style=flat)
-
-Led a cross-functional team implementing an innovative AI solution that transformed healthcare documentation by integrating custom LLM technology with legacy applications.
 
 ### [GPS Fleet Tracking Modernization (2017-2019)](https://github.com/ptingiris/ptingiris-portfolio/tree/main/3-gps-fleet-tracking)
 ![Ember.js Badge](https://img.shields.io/badge/-Ember.js-E04E39?style=flat&logo=ember.js&logoColor=white)
