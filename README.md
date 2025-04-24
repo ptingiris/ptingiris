@@ -80,6 +80,6 @@ Architected the transformation of a legacy GPS tracking system to a modern Ember
 
 I'm always open to discussing new opportunities, technical challenges, or innovative ideas. Please reach out!
 
-- **Email**: [ptingiris@gmail.com](mailto:ptingiris@gmail.com)
+- **Email**: [pam@pamtingiris.com](mailto:pam@pamtingiris.com)
 - **LinkedIn**: [linkedin.com/in/pamtingiris](https://www.linkedin.com/in/pamtingiris/)
 - **Portfolio**: [github.com/ptingiris/ptingiris-portfolio](https://github.com/ptingiris/ptingiris-portfolio)
