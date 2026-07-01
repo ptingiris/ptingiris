@@ -1,85 +1,58 @@
-# Pam Tingiris | Front-End Engineering, User Experiences & Technical Project Management
+# Pam Tingiris
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamtingiris/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pamtingiris.com)
+**Senior Front-End Engineer · Human-Directed AI Development**
 
-## 👋 About Me
+I build internal tools, workflow systems, and AI-assisted software with a focus on structure, usability, and maintainability.
 
-With 13+ years crafting elegant, user-centric digital experiences, I specialize in the Angular ecosystem while maintaining versatile expertise across multiple frontend frameworks and design systems. My career spans healthcare AI integration, enterprise component libraries, GIS applications, media platforms, and technical project leadership.
+AI can generate code quickly. My work is in directing that speed: shaping architecture, clarifying scope, reviewing implementation, preserving context, and making sure the result holds together beyond the first working version.
 
-> 📝 **Note:** While I've been on GitHub since 2013, most of my professional work has been in private repositories on company-sponsored platforms (GitLab, Bitbucket, SVN). This portfolio showcases selected projects with detailed case studies and technical documentation.
+My recent work includes human-directed AI builds for business operations, field time tracking, payroll workflow, and regulated healthcare documentation.
 
-## 💻 Technical Expertise
+> Most of my professional engineering work has been in private company repositories across Bitbucket, GitLab, SVN, and internal systems. This GitHub profile collects selected public examples, project documentation, and portfolio case studies.
 
-```javascript
-const skills = {
-    angularEcosystem: ['Angular 8+', 'TypeScript', 'RxJS', 'Angular Material'],
-    reactEcosystem: ['React', 'Next.js', 'Tailwind CSS', 'Component Design'],
-    frontend: ['HTML5', 'CSS3', 'JavaScript (ES6+)', 'Responsive Design'],
-    architecture: ['Component Design Systems', 'Modular Development', 'State Management'],
-    uxImplementation: ['Accessible Design', 'Performance Optimization', 'Interactive Experiences'],
-    geospatial: ['Mapping APIs', 'Location Services', 'GIS Visualization'],
-    aiIntegration: [
-        'Custom LLM Integration',
-        'AI-Enhanced Testing & Workflows',
-        'Voice-to-Text AI Processing',
-        'HIPAA-Compliant AI Implementation',
-        'Conversational Interfaces'
-    ]
-};
-```
+## Recent AI-directed work
 
-## 🔍 Featured Project Portfolio
+### Business Operations Platform
 
-### [AI-Powered Letters of Medical Necessity (2024-2025)](https://github.com/ptingiris/ptingiris-portfolio/tree/main/2-ai-healthcare)
-![AI Badge](https://img.shields.io/badge/-AI%20Integration-0078D7?style=flat)
-![Healthcare Badge](https://img.shields.io/badge/-Healthcare-16A085?style=flat)
-![HIPAA Badge](https://img.shields.io/badge/-HIPAA%20Compliant-27AE60?style=flat)
+Human-directed AI build supporting leads, estimates, scheduling, invoicing, Stripe payments, and workflow management for a live business.
 
-Led a cross-functional team implementing an innovative AI solution that transformed healthcare documentation by integrating custom LLM technology with legacy applications.
+**Live business use · Angular / TypeScript · Firebase · Stripe**
 
-### [Enterprise Angular Component Library (2019-2023)](https://github.com/ptingiris/ptingiris-portfolio/tree/main/1-key-differentiator)
-![Angular Badge](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![RxJS Badge](https://img.shields.io/badge/-RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+### Field Time-Tracking System
 
-Architected a comprehensive Angular component library powering six enterprise applications for utility damage prevention with sophisticated UI components and geospatial integration.
+Human-directed AI build for field time tracking, project reporting, and payroll workflow, adopted as a company system of record.
 
-### [GPS Fleet Tracking Modernization (2017-2019)](https://github.com/ptingiris/ptingiris-portfolio/tree/main/3-gps-fleet-tracking)
-![Ember.js Badge](https://img.shields.io/badge/-Ember.js-E04E39?style=flat&logo=ember.js&logoColor=white)
-![Google Maps Badge](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?style=flat&logo=google-maps&logoColor=white)
-![Data Visualization Badge](https://img.shields.io/badge/-Data%20Visualization-FF9900?style=flat)
+**Production use · Payroll workflow · QuickBooks export · Angular / TypeScript**
 
-Architected the transformation of a legacy GPS tracking system to a modern Ember.js implementation with enhanced data visualization capabilities.
+### Medical Necessity Letter AI Integration
 
-### [Additional Projects](https://github.com/ptingiris/ptingiris-portfolio)
+Technical leadership and project management for enterprise AI integration in a regulated healthcare workflow.
 
-- **Adobe Partner Training Platform (2014-2015)**: Custom e-learning platform with specialized video player development
-- **Intel Ultrabook Campaign (2013)**: Interactive digital experience with pioneering responsive web techniques
-- **Microsoft Enterprise Training Leadership (1994-1997)**: Early career foundation in technical project management
+**Enterprise AI · Healthcare workflow · Review UI · Compliance-aware delivery**
 
-## 🧠 Professional Philosophy
+## Earlier work
 
-- **Technical Precision Meets Design Aesthetic**: Balancing complex technical requirements with intuitive user experiences
-- **Sustainable Component Architecture**: Creating reusable, maintainable systems that scale efficiently
-- **Collective Growth Through Shared Expertise**: Fostering environments where knowledge sharing flourishes
+Before AI-assisted development, my work as a senior front-end engineer centered on durable fundamentals: architecture, complex workflows, legacy modernization, and systems people could understand and use.
 
-## 📊 GitHub Activity
+Selected earlier work includes:
 
-<!-- GitHub activity section that acknowledges private work -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptingiris/ptingiris/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptingiris/ptingiris/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ptingiris/ptingiris/output/github-snake.svg" />
-</picture>
+- Enterprise application frameworks and reusable component systems
+- GPS fleet tracking modernization and mapping interfaces
+- Adobe partner training and custom media-learning platforms
+- Interactive campaign work for national brands
+- Technical project leadership across product, design, and engineering teams
 
-<!-- You can add this widget or remove it depending on your preference -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ptingiris&show_icons=true&theme=dracula" alt="GitHub Stats" /> -->
+## Focus
 
-## 📫 Let's Connect
+- Human-directed AI development
+- Front-end architecture and complex workflows
+- Internal tools and operational systems
+- Legacy modernization
+- Design systems and reusable UI patterns
+- Production software that remains understandable and maintainable
 
-I'm always open to discussing new opportunities, technical challenges, or innovative ideas. Please reach out!
+## Portfolio
 
-- **Email**: [pam@pamtingiris.com](mailto:pam@pamtingiris.com)
-- **LinkedIn**: [linkedin.com/in/pamtingiris](https://www.linkedin.com/in/pamtingiris/)
-- **Portfolio**: [github.com/ptingiris/ptingiris-portfolio](https://github.com/ptingiris/ptingiris-portfolio)
+Project case studies and selected documentation:
+
+**https://ux-pro.dev**
