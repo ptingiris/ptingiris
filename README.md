@@ -53,6 +53,8 @@ Selected earlier work includes:
 
 ## Portfolio
 
-Project case studies and selected documentation:
-
+Project case studies and selected work:  
 **https://ux-pro.dev**
+
+Supporting documentation and case-study materials:  
+**https://github.com/ptingiris/ptingiris-portfolio**
